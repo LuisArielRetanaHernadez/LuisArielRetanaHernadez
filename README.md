@@ -1,4 +1,3 @@
-# LuisArielRetanaHernandez
 # Hola, Que tal 👋🏽😜
 
 # Lenguajes
