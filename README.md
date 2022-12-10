@@ -1,5 +1,15 @@
 # Hola, Que tal 👋🏽😜
 
+```javascript
+const about = () => {
+  const name = 'Luis Ariel Retana Hernandez';
+  const age = 20;
+  const country = 'Mexico';
+  const languages = ['español nativo'];
+  
+}
+```
+
 # Lenguajes
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
